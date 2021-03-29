@@ -1,2 +1,5 @@
-# FunctionalProgramming
-Análise de dados com Programação Funcional
+# Functional Programming
+
+Linguagens Usadas: Python 3.
+
+Script utilizando programação funcional para matéria de Teoria da Computação.
